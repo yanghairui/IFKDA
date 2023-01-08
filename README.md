@@ -5,6 +5,7 @@ IJCAI 2018 Fast Factorization-Free Kernel Learning for Unlabeled Chunk Data Stre
 [Paper](https://www.ijcai.org/proceedings/2018/0393.pdf)
 
 [Dataset](https://drive.google.com/drive/folders/1SVhkWHHLRCbtzkvW62kK1Fo8KLiuSnKm?usp=share_link)
+放在data目录下
 
 # Run the program
 
